@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Newton Alumasa</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altontonn&label=Profile%20views&color=0e75b6&style=flat" alt="altontonn" /> </p>
 
@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=altontonn&show_icons=true&locale=en&layout=compact" alt="altontonn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altontonn&show_icons=true&locale=en" alt="altontonn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altontonn&" alt="altontonn" /></p>
