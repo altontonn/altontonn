@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Newton Alumasa</h1>
 
-
-<h3 align="center">A passionate frontend developer</h3>
+<img src="https://user-images.githubusercontent.com/23072693/184722979-8d12f3e9-00ec-44db-b068-23f2706cb353.png" alt="altontonn" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altontonn&label=Profile%20views&color=0e75b6&style=flat" alt="altontonn" /> </p>
 
