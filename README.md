@@ -25,3 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altontonn&" alt="altontonn" /></p>
 </div>
+
+![GitHub metrics](https://metrics.lecoq.io/altontonn)  
