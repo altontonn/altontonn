@@ -32,5 +32,5 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=altontonn&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+  <a href="https://www.buymeacoffee.com/altontonn"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="altontonn" /></a>
 </p>
