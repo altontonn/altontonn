@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=altontonn&label=Profile%20views&color=0e75b6&style=flat" alt="altontonn" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-stack+Developer;Always+learning+new+technologies)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **my coding history**
