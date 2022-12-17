@@ -1,15 +1,18 @@
 
-<img src="https://user-images.githubusercontent.com/23072693/184722979-8d12f3e9-00ec-44db-b068-23f2706cb353.png" alt="altontonn" />
-
+<!-- <img src="https://user-images.githubusercontent.com/23072693/184722979-8d12f3e9-00ec-44db-b068-23f2706cb353.png" alt="altontonn" /> -->
+<div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=altontonn&label=Profile%20views&color=0e75b6&style=flat" alt="altontonn" /> </p>
+<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-stack+Developer;Always+learning+new+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Newton+Alumasa;A+Full-Stack+Developer;Loves+learning+new+technologies)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **my coding history**
+<p> 🌱 I’m currently learning **Backend Development**</p>
 
-- 📫 How to reach me **altontonnalumasa@gmail.com**
+<p> 💬 Ask me about **my coding history**</p>
+
+<p> 📫 How to reach me **altontonnalumasa@gmail.com**</p>
+</div>
 
 <div align="center">
 <h3 align="center">Connect with me:</h3>
