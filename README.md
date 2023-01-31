@@ -19,7 +19,7 @@
 <p align="center">
 </p>
 
- <p align="center"> <a href="https://twitter.com/altontonn" target="blank"><img src="https://img.shields.io/twitter/follow/altontonn?logo=twitter&style=for-the-badge" alt="alumasanewton" /></a> <a href="https://linkedin.com/in/rishavanand" target="_blank">
+ <p align="center"> <a href="https://twitter.com/altontonn" target="blank"><img src="https://img.shields.io/twitter/follow/altontonn?logo=twitter&style=for-the-badge" alt="alumasanewton" /></a> <a href="https://www.linkedin.com/in/newton-alumasa/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> </p>
   
